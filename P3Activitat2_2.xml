@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--DOCTYPE empleats SYSTEM "definicio.dtd"-->
+<empleats>
+    <empleat>
+        <nom>Carlos</nom>
+        <cognom>Marín</cognom>
+        <direccio>C/ de Pau Claris, 121, 08009 Barcelona</direccio>
+        <ciutat>Barcelona</ciutat>
+        <email>cmarin22@jaumebalmes.net</email>
+        <telefon>934870301</telefon>
+    </empleat>
+    <empleat>
+        <nom>Lautaro</nom>
+        <cognom>Fleitas</cognom>
+        <direccio>C/ de Pau Claris, 224, 08009 Barcelona</direccio>
+        <ciutat>Barcelona</ciutat>
+        <email>lfleitas22@jaumebalmes.net</email>
+        <telefon>934870301</telefon>
+    </empleat>
+</empleats>

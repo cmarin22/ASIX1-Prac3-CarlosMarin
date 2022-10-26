@@ -1,0 +1,22 @@
+
+{
+    "empleats":[
+    {
+    "nom":"Carlos", 
+    "cognom":"Marín", 
+    "direccio":"C/ de Pau Claris, 121, 08009 Barcelona", 
+    "ciutat":"Barcelona", 
+    "email":"cmarin22@jaumebalmes.net",
+    "telefon":"934870301"
+    },
+    {
+    "nom":"Lautaro", 
+    "cognom":"Fleitas", 
+    "direccio":"C/ de Pau Claris, 224, 08009 Barcelona", 
+    "ciutat":"Barcelona", 
+    "email":"lfleitas22@jaumebalmes.net",
+    "telefon":"934870301"
+    }
+    
+]}
+
