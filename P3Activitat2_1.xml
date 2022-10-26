@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!--DOCTYPE empleats SYSTEM "definicio.dtd"-->
+<empleats>
+    <empleat>
+        <nom>Carlos</nom>
+        <cognom>Marín</cognom>
+        <direccio>C/ de Pau Claris, 121, 08009 Barcelona</direccio>
+        <telefon>934870301</telefon>
+    </empleat>
+</empleats>
